@@ -1,0 +1,18 @@
+/* QuizList Styles */
+.quizListContainer {
+    padding: 20px;
+  }
+  
+  .quizListTitle {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .quizItem {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
